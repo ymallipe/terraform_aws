@@ -1,0 +1,10 @@
+aws_access_key = "REDACTED"
+aws_secret_key = "REDACTED"
+region = "us-east-1"
+private_key_path = "/root/.ssh/ansibledemo.pem"
+vpc_id = "vpc-5863c620"
+key_pair = "terademo"
+security_group = "terrademo"
+ec2_security_group = "ec2_terademo"
+rds_security_group = "rds_terademo"
+
